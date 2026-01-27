@@ -1,0 +1,32 @@
+Java
+Spring Boot
+Spring Security
+Hibernate
+JPA
+REST API
+Microservices
+MySQL
+PostgreSQL
+MongoDB
+Docker
+Kubernetes
+AWS
+Git
+Linux
+Python
+FastAPI
+Machine Learning
+NLP
+Data Analysis
+SQL
+HTML
+CSS
+JavaScript
+React
+Node.js
+JWT
+OAuth
+CI/CD
+Unit Testing
+Problem Solving
+DSA
